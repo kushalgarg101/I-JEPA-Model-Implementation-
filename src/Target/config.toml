@@ -1,0 +1,5 @@
+[Path]
+folder_path = "D:\Image_Jepa\src\utils\photos_no_class"
+
+[Hyperparameters]
+image_size = [224,224]
